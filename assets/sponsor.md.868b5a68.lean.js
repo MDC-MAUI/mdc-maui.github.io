@@ -1,1 +1,0 @@
-import{_ as o,c as t,o as e,a}from"./app.1941f121.js";const h=JSON.parse('{"title":"Sponsor this project","description":"","frontmatter":{},"headers":[],"relativePath":"sponsor.md","lastUpdated":null}'),s={name:"sponsor.md"},r=a("",3),p=[r];function n(c,i,_,f,m,d){return e(),t("div",null,p)}const u=o(s,[["render",n]]);export{h as __pageData,u as default};
